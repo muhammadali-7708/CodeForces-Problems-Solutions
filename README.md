@@ -2,10 +2,10 @@
 # ⚡ Codeforces Competitive Programming
 
 [![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YourHandle)
-[![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Languages](https://img.shields.io/badge/Languages-C++_%7C_Python-00599C?style=for-the-badge&logo=python&logoColor=white)](https://codeforces.com/)
 [![Problems Solved](https://img.shields.io/badge/Solved-2-brightgreen?style=for-the-badge)](#problem-index)
 
-A clean and organized archive of my personal C++ solutions for algorithmic problems solved during Codeforces rounds and practice sessions.
+A clean and organized archive of my personal solutions for algorithmic problems solved during Codeforces rounds and practice sessions, written in both **C++** and **Python**.
 
 ---
 
@@ -23,9 +23,9 @@ A clean and organized archive of my personal C++ solutions for algorithmic probl
 
 ## 📑 Problem Index
 
-| # | Contest / Problem | Rating | Solution |
-| :---: | :--- | :---: | :--- |
-| 4A | [Watermelon](https://codeforces.com/problemset/problem/4/A) | `800` | [`4A-watermelon.cpp`](./4A-watermelon.cpp) |
-| 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | `800` | [`71A-way-too-long-words.cpp`](./71A-way-too-long-words.cpp) |
+| # | Contest / Problem | Rating | Language | Solution |
+| :---: | :--- | :---: | :---: | :--- |
+| 4A | [Watermelon](https://codeforces.com/problemset/problem/4/A) | `800` | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | [`4A-watermelon.cpp`](./4A-watermelon.cpp) |
+| 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | `800` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [`71A-way-too-long-words.py`](./71A-way-too-long-words.py) |
 
 ---
