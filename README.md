@@ -13,11 +13,11 @@ A clean and organized archive of my personal solutions for algorithmic problems 
 
 | Rating Bracket | Difficulty Tier | Solved | Target |
 | :--- | :--- | :---: | :---: |
-| 🟢 **800 – 1100** | Div. 4 / Easy | 1 | 50 |
+| 🟢 **800 – 1100** | Div. 4 / Easy | 2 | 50 |
 | 🔵 **1200 – 1500** | Div. 3 / Medium | 0 | 40 |
 | 🟣 **1600 – 1900** | Div. 2 / Hard | 0 | 20 |
 | 🔴 **2000+** | Div. 1 / Master | 0 | 10 |
-| **Total** | — | **1** | **120** |
+| **Total** | — | **2** | **120** |
 
 ---
 
