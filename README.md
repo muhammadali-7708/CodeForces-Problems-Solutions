@@ -13,11 +13,11 @@ A clean and organized archive of my personal solutions for algorithmic problems 
 
 | Rating Bracket | Difficulty Tier | Solved | Target |
 | :--- | :--- | :---: | :---: |
-| 🟢 **800 – 1100** | Div. 4 / Easy | 2 | 50 |
+| 🟢 **800 – 1100** | Div. 4 / Easy | 1 | 50 |
 | 🔵 **1200 – 1500** | Div. 3 / Medium | 0 | 40 |
 | 🟣 **1600 – 1900** | Div. 2 / Hard | 0 | 20 |
 | 🔴 **2000+** | Div. 1 / Master | 0 | 10 |
-| **Total** | — | **2** | **120** |
+| **Total** | — | **1** | **120** |
 
 ---
 
@@ -25,7 +25,7 @@ A clean and organized archive of my personal solutions for algorithmic problems 
 
 | # | Contest / Problem | Rating | Language | Solution |
 | :---: | :--- | :---: | :---: | :--- |
-| 4A | [Watermelon](https://codeforces.com/problemset/problem/4/A) | `800` | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | [`4A-watermelon.cpp`](./4A-watermelon.cpp) |
+| 431A | [Black Square](https://codeforces.com/problemset/problem/431/A) | `800` | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | [`431A-BlackSquare.cpp`](./431A-BlackSquare.cpp) |
 | 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | `800` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [`71A-way-too-long-words.py`](./71A-way-too-long-words.py) |
 
 ---
