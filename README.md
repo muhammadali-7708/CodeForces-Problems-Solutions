@@ -1,34 +1,31 @@
 # CodeForces-Problems-Solutions
-# 🚀 Competitive Programming & LeetCode Solutions
+# ⚡ Codeforces Competitive Programming
 
-![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus)
-![Platform](https://img.shields.io/badge/Platform-Codeforces-red?style=for-the-badge&logo=codeforces)
-![Platform](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YourHandle)
+[![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Problems Solved](https://img.shields.io/badge/Solved-2-brightgreen?style=for-the-badge)](#problem-index)
 
-Welcome to my competitive programming repository! Here I log my solutions, notes, and progress for problems solved on **Codeforces** and **LeetCode**.
-
----
-
-## 📊 Statistics & Profiles
-
-| Platform | Profile Link |
-| :--- | :--- |
-| **Codeforces** | [YourHandle](https://codeforces.com/profile/YourHandle) |
-| **LeetCode** | [YourHandle](https://leetcode.com/YourHandle) |
+A clean and organized archive of my personal C++ solutions for algorithmic problems solved during Codeforces rounds and practice sessions.
 
 ---
 
-## 📂 Repository Structure
+## 📊 Rating & Progress Overview
 
-```text
-.
-├── Codeforces/
-│   ├── 800-1000/           # Easy problems / Div 2 A, B
-│   ├── 1100-1300/          # Medium problems
-│   └── Contests/           # Live contest solutions
-├── LeetCode/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-└── README.md
+| Rating Bracket | Difficulty Tier | Solved | Target |
+| :--- | :--- | :---: | :---: |
+| 🟢 **800 – 1100** | Div. 4 / Easy | 2 | 50 |
+| 🔵 **1200 – 1500** | Div. 3 / Medium | 0 | 40 |
+| 🟣 **1600 – 1900** | Div. 2 / Hard | 0 | 20 |
+| 🔴 **2000+** | Div. 1 / Master | 0 | 10 |
+| **Total** | — | **2** | **120** |
+
+---
+
+## 📑 Problem Index
+
+| # | Contest / Problem | Rating | Solution |
+| :---: | :--- | :---: | :--- |
+| 4A | [Watermelon](https://codeforces.com/problemset/problem/4/A) | `800` | [`4A-watermelon.cpp`](./4A-watermelon.cpp) |
+| 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | `800` | [`71A-way-too-long-words.cpp`](./71A-way-too-long-words.cpp) |
+
+---
