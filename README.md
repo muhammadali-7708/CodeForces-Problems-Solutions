@@ -28,5 +28,6 @@ A clean and organized archive of my personal solutions for algorithmic problems 
 | 431A | [Black Square](https://codeforces.com/problemset/problem/431/A) | `800` | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | [`431A-BlackSquare.cpp`](./431A-BlackSquare.cpp) |
 | 617A | [Elephant](https://codeforces.com/problemset/problem/617/A) | `800` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [`617A-Elephant.py`](./617A-Elephant.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | `800` | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | [`236A-Boy-or-Girl.cpp`](./236A-Boy-or-Girl.cpp) |
+| 4A | [Watremelon](https://codeforces.com/contest/4/problem/A) | `800` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [`4A-Watermelon.py`](./4A-Watermelon.py) |
 
 ---
