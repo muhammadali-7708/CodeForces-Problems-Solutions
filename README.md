@@ -30,5 +30,6 @@ A clean and organized archive of my personal solutions for algorithmic problems 
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | `800` | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | [`236A-Boy-or-Girl.cpp`](./236A-Boy-or-Girl.cpp) |
 | 4A | [Watremelon](https://codeforces.com/contest/4/problem/A) | `800` | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | [`4A-Watermelon.cpp`](./4A-Watermelon.cpp) |
 | 2276A | [Perfect Sandwich](https://codeforces.com/problemset/problem/2276/A) | `800` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [`2276A-Perfect-Sandwich.py`](./2276A-Perfect-Sandwich.py) |
+ 263A | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | `800` | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | [`263A-BeautifulMatrix.cpp`](./263A-BeautifulMatrix.cpp) |
 
 ---
