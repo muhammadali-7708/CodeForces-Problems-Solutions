@@ -34,5 +34,4 @@ A clean and organized archive of my personal solutions for algorithmic problems 
 | 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | `800` | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | [`71A-WayTooLongWords.cpp`](./71A-WayTooLongWords.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | `800` | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | [`281A-WordCapitalization.cpp`](./281A-WordCapitalization.cpp) |
 
-
 ---
